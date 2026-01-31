@@ -1,2 +1,3 @@
 # mysite
-Project for DevOps class
+
+1. Kantinan Kuikaew, FC4RICA, kantinanKuik
